@@ -20,7 +20,7 @@ public class Main {
          System.out.println(" summa "+ huh +"   " + " ioi aio + jkl +rty :"  + rty1 );*/
 
 
-        System.out.println();
+      System.out.println("привет ну как получается");
         Random r = new Random();
         int rir = r.nextInt();
         int ede = r.nextInt();
@@ -33,8 +33,8 @@ public class Main {
         int lo = 1;
         System.out.println(+yt + oi + lo);
         System.out.println(+3 + 2 + 1);
-
-
+        System.out.println("так что это");
+        System.out.println("*");
     }
 }
 
